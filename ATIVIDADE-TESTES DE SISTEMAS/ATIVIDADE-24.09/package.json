@@ -1,0 +1,11 @@
+{
+  "name": "atividade-24-09",
+  "version": "1.0.0",
+  "description": "Testes unitários do sistema Doguito PetShop",
+  "scripts": {
+    "test": "node --test app.test.js"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0"
+  }
+}
